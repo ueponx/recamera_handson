@@ -335,10 +335,10 @@ https://nodered.org/
 
 # 販売ページ
 
-* [スイッチサイエンス](https://www.switch-science.com/products/10092)
-* [スイッチサイエンス](https://www.switch-science.com/products/10227)
-* [秋月電子](https://www.marutsu.co.jp/pc/i/3005449/)
-* [マルツ](https://akizukidenshi.com/catalog/g/g130258/)
+* [スイッチサイエンス reCamera 2002 64GB](https://www.switch-science.com/products/10092)
+* [スイッチサイエンス reCamera 2002w 64GB](https://www.switch-science.com/products/10227)
+* [秋月電子 reCamera 2002 64GB](https://www.marutsu.co.jp/pc/i/3005449/)
+* [マルツ reCamera 2002 64GB](https://akizukidenshi.com/catalog/g/g130258/)
 
 ---
 
