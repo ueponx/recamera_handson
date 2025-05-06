@@ -119,11 +119,11 @@ Windowsの【デバイスマネージャー】から【 ネットワークアダ
 
 ![image](https://cdn-ak.f.st-hatena.com/images/fotolife/u/ueponx/20250504/20250504122544.png)
 
-## **UsbNcm Host Device**について
+### **UsbNcm Host Device**について
 
 **UsbNcm Host Device**は、USBネットワークコントロールモデル(**NCM**)デバイス用のWindowsドライバです。**NCM**はUSB-IFによって定義された規格で、USBを介してイーサネットパケットを転送するための最新のUSB標準通信インターフェースです。このドライバにより、PCと**reCamera**間でUSB経由のネットワーク接続が可能になります。Windows11では標準でこのドライバがサポートされており、USBケーブルで接続するだけで自動的にネットワークアダプターとして認識されます。
 
-## Windowsでのネットワーク接続問題
+### Windowsでのネットワーク接続問題
 
 **reCamera**のUSBネットワークを使用した後、Windows11でネットワークアクセスに問題がある場合
 
