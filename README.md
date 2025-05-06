@@ -335,13 +335,11 @@ https://nodered.org/
 
 # 販売ページ
 
-‐ [スイッチサイエンス](https://www.switch-science.com/products/10092)
-‐ [スイッチサイエンス](https://www.switch-science.com/products/10227)
-‐ [秋月電子](https://www.marutsu.co.jp/pc/i/3005449/)
-‐ [マルツ](https://akizukidenshi.com/catalog/g/g130258/)
+* [スイッチサイエンス](https://www.switch-science.com/products/10092)
+* [スイッチサイエンス](https://www.switch-science.com/products/10227)
+* [秋月電子](https://www.marutsu.co.jp/pc/i/3005449/)
+* [マルツ](https://akizukidenshi.com/catalog/g/g130258/)
 
 ---
 
-*このチュートリアルは wiki.seeedstudio.com/recamera_getting_started/ の情報を日本語化および加筆を行い作成されています*
-
-*このチュートリアルは [wiki.seeedstudio.com/recamera_getting_started/](https://wiki.seeedstudio.com/recamera_getting_started/) の情報を日本語化および加筆を行い作成されています*
+*このチュートリアルは https://wiki.seeedstudio.com/recamera_getting_started/ の情報を日本語化および加筆を行い作成されています*
